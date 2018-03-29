@@ -34,5 +34,13 @@ nav li:last-child::after{
 nav a{
   color: white;
   text-decoration: none;
+}
+
+.portada{
+  /* border: 10px solid red; */
+}
+.blog{
+  width: 1000px;
+  margin: 0 auto;
 
 }
